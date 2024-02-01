@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+
+
+p{
+    font-family: font-family: 'Poppins', sans-serif;;
+    font-size: 30px; /*tamanho da fonte*/
+    font-weight: bold; /*texto em negrito*/
+    line-height: 1.5; /* espaçamento entre linhas*/
+
+}
+
+.material-symbols-outlined{
+
+  height: 100px
+  ;
+}
+
+.palmeiras{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.teste{
+
+
+    
+}
